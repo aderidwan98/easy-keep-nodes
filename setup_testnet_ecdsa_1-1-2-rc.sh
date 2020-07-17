@@ -91,7 +91,7 @@ cat <<CONFIG >>$HOME/keep-ecdsa/config/config.toml
 # Addresses of applications approved by the operator.
 [SanctionedApplications]
   Addresses = [
-    "0x25B60668E7a0967a86223828D20f93714D91Ee4B",
+    "0x14dC06F762E7f4a756825c1A1dA569b3180153cB",
 ]
 
 [Storage]
