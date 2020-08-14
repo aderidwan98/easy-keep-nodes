@@ -6,5 +6,5 @@ sudo docker run -d \
   --env LOG_LEVEL=debug \
   --name ecdsa \
   -p 3919:3919 \
-  keepnetwork/keep-ecdsa-client:v1.1.2-rc \
+  keepnetwork/keep-ecdsa-client:v1.2.0-rc \
   --config /mnt/keep-ecdsa/config/config.toml start
