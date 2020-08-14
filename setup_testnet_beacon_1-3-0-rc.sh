@@ -82,9 +82,9 @@ cat <<CONFIG >>$HOME/keep-client/config/config.toml
 # if it does, the new contract address will be listed here:
 # https://github.com/keep-network/keep-client/blob/master/docs/run-keep-client.adoc
 [ethereum.ContractAddresses]
-  KeepRandomBeaconOperator = "0x9233Fd6C58e37dab223EF1dFD5e33eD69FD1f93b"
-  TokenStaking = "0x88B3D0Bfb8F207292Dc4Cee7C923d0E7C3078a18"
-  KeepRandomBeaconService = "0xa5018dbeB6920A04e0CFd3D8F0F45BC851838b0D"
+  KeepRandomBeaconOperator = "0xf417b31104631280adF9F6828ee19985BC299fdC"
+  TokenStaking = "0x8117632eC1D514550b3880Bc68F9AC1A76c9C67B"
+  KeepRandomBeaconService = "0xd83248e311DC2Ba0d2A051e86f0678d8857f6ADD"
 
 
 # This addresses might change and need to be replaced from time to time
